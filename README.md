@@ -21,7 +21,14 @@
 
 ## Actions
 
-* Shell Commands
+* Shell Commands (simple.yml)
+
+
+### Enabling debug logging
+
+[Create settings/secrets](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/enabling-debug-logging): 
+* ACTIONS_RUNNER_DEBUG : true
+* ACTIONS_STEP_DEBUG : true
 
 
 ## References
@@ -29,3 +36,4 @@
 
 * [GitHub Actions Official Documentation](https://docs.github.com/en/actions)
 * [Udemy - Ali Alaa - The Complete GitHub Actions & Workflows Guide](https://www.udemy.com/share/102DqF3@FZqdMoG9r2Aysn-CRm36i1GxiD35gdq2QvDSa9Qn5ev6IN9euejnJ55i8G0b2BWq/)
+* [Shells support in Github Actions](https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions#jobsjob_idstepsshell)
