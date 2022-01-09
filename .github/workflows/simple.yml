@@ -4,7 +4,7 @@ on: [push]
 
 jobs: 
   run-shell-command:
-    environment: test
+    environment: linux
     runs-on: ubuntu-latest
     steps:
       - name: echo a string
@@ -17,4 +17,13 @@ jobs:
         run: |
           import platform
           print(platform.processor())
-        shell: python
+        shell: python  
+  run-windows-commands:
+    environment: windows
+    runs-on: windows-latest
+    steps:
+      - name: Directory PowerShell
+        run: Get-Location
+      - name: Directory Bash
+        run: pwd
+        shell: bash
