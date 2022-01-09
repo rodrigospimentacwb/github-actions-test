@@ -10,7 +10,6 @@
 
 ### Extensions to VsCode
 
-* [Github Actions](https://marketplace.visualstudio.com/items?itemName=cschleiden.vscode-github-actions)
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [YAML to Json](https://marketplace.visualstudio.com/items?itemName=ahebrank.yaml2json)
 * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
@@ -18,7 +17,7 @@
 ## GitHub Actions Geral Schema
 
 ![](resources/images/Ali_Alaa_Actions_Schema.png)
-** Image: Ali Alaa - Udemy GitHub Actions Course. Link inf References
+** Image: Ali Alaa - Udemy GitHub Actions Course. Link in References
 
 ## Actions
 
