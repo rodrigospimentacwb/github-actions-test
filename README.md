@@ -15,6 +15,11 @@
 * [YAML to Json](https://marketplace.visualstudio.com/items?itemName=ahebrank.yaml2json)
 * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
+## GitHub Actions Geral Schema
+
+![](resources/images/Ali_Alaa_Actions_Schema.png)
+** Image: Ali Alaa - Udemy GitHub Actions Course. Link inf References
+
 ## Actions
 
 * Shell Commands
@@ -22,5 +27,6 @@
 
 ## References
 
-* [GitHub Actins Official Documentation](https://docs.github.com/en/actions)
-* [The Complete GitHub Actions & Workflows Guide](https://www.udemy.com/share/102DqF3@FZqdMoG9r2Aysn-CRm36i1GxiD35gdq2QvDSa9Qn5ev6IN9euejnJ55i8G0b2BWq/)
+
+* [GitHub Actions Official Documentation](https://docs.github.com/en/actions)
+* [Udemy - Ali Alaa - The Complete GitHub Actions & Workflows Guide](https://www.udemy.com/share/102DqF3@FZqdMoG9r2Aysn-CRm36i1GxiD35gdq2QvDSa9Qn5ev6IN9euejnJ55i8G0b2BWq/)
